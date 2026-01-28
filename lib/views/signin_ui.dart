@@ -12,7 +12,7 @@ class _SigninUiState extends State<SigninUi> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.red,
+      backgroundColor: Colors.white,
       body: SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.all(40.0),
@@ -80,7 +80,7 @@ class _SigninUiState extends State<SigninUi> {
                     hintText: 'E-mail',
                     hintStyle: TextStyle(color: Colors.grey),
                     contentPadding: EdgeInsets.symmetric(
-                      vertical: 25.0,
+                      vertical: 20.0,
                       horizontal: 20.0,
                     ),
                   ),
@@ -100,7 +100,7 @@ class _SigninUiState extends State<SigninUi> {
                     hintText: 'Password',
                     hintStyle: TextStyle(color: Colors.grey),
                     contentPadding: EdgeInsets.symmetric(
-                      vertical: 25.0,
+                      vertical: 20.0,
                       horizontal: 20.0,
                     ),
                     suffixIcon: IconButton(
@@ -142,7 +142,7 @@ class _SigninUiState extends State<SigninUi> {
                   style: ElevatedButton.styleFrom(
                     fixedSize: Size(
                       MediaQuery.of(context).size.width,
-                      60,
+                      50,
                     ),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(8),
@@ -187,12 +187,15 @@ class _SigninUiState extends State<SigninUi> {
                   style: OutlinedButton.styleFrom(
                     fixedSize: Size(
                       MediaQuery.of(context).size.width,
-                      60,
+                      50,
                     ),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(8),
                     ),
                   ),
+                ),
+                SizedBox(
+                  height: 5.0,
                 ),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
