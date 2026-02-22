@@ -1,16 +1,5 @@
-# flutter_iot_second_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" height="650" src="https://github.com/user-attachments/assets/94a047e4-63a0-480c-87c0-18a9bf1ee057" />
+<br><br>
+<img width="300" height="650" src="https://github.com/user-attachments/assets/d1494dba-7be1-4832-ad1b-502041ac79ee" />
+&nbsp; &nbsp;
+<img width="300" height="650" src="https://github.com/user-attachments/assets/f7518653-f606-40d1-b2de-c2c28a6f5f9d" />
